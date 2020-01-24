@@ -19,15 +19,3 @@ This preview release of the C/C++ extension adds language support for C/C++ to V
 * [Debugging](https://code.visualstudio.com/docs/cpp/cpp-debug)
 * [Debug configuration](https://code.visualstudio.com/docs/cpp/launch-json-reference)
 * [Enable logging for IntelliSense or debugging](https://code.visualstudio.com/docs/cpp/enable-logging-cpp)
-
-
- Package | Platform
-:--- | :---
-`cpptools-linux.vsix` | Linux 64-bit
-`cpptools-linux32.vsix` | Linux 32-bit
-`cpptools-osx.vsix` | macOS
-`cpptools-win32.vsix` | Windows 64-bit & 32-bit
-
-## Microsoft Open Source Code of Conduct
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact opencode@microsoft.com with any additional questions or comments.
