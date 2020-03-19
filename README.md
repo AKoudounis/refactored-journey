@@ -1,6 +1,6 @@
 # C/C++ for Visual Studio Code
 
-#### [Repository](https://github.com/AKoudounis/refactored-journey)&nbsp;&nbsp;|&nbsp;&nbsp; [Documentation](https://code.visualstudio.com/docs/languages/cpp)&nbsp;&nbsp;|&nbsp;&nbsp;[Code Samples](https://github.com/AKoudounis/refactored-journey)&nbsp;&nbsp;
+#### [Repository](https://github.com/AKoudounis/refactored-journey)&nbsp;&nbsp;|&nbsp;&nbsp; [Documentation](https://code.visualstudio.com/docs/languages/cpp)&nbsp;&nbsp;|&nbsp;&nbsp;[Code Samples](https://github.com/AKoudounis/refactored-journey/blob/master/pokerhands.cpp)&nbsp;&nbsp;
 [![Badge](https://aka.ms/vsls-badge)](https://aka.ms/vsls)
 
 This preview release of the C/C++ extension adds language support for C/C++ to Visual Studio Code, including features such as IntelliSense and debugging.
