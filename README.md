@@ -11,11 +11,3 @@ This preview release of the C/C++ extension adds language support for C/C++ to V
 * [Get Started with C++ and Mingw-w64](https://code.visualstudio.com/docs/cpp/config-mingw)
 * [Get Started with C++ and Clang/LLVM on macOS](https://code.visualstudio.com/docs/cpp/config-clang-mac)
 * [Get Started with C++ and Microsoft C++ compiler (MSVC)](https://code.visualstudio.com/docs/cpp/config-msvc)
-
-## Quick links
-* [Editing features (IntelliSense)](https://code.visualstudio.com/docs/cpp/cpp-ide) 
-* [IntelliSense configuration](https://code.visualstudio.com/docs/cpp/customize-default-settings-cpp)
-* [Enhanced colorization](https://code.visualstudio.com/docs/cpp/colorization-cpp)
-* [Debugging](https://code.visualstudio.com/docs/cpp/cpp-debug)
-* [Debug configuration](https://code.visualstudio.com/docs/cpp/launch-json-reference)
-* [Enable logging for IntelliSense or debugging](https://code.visualstudio.com/docs/cpp/enable-logging-cpp)
