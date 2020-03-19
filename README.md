@@ -3,7 +3,7 @@
 #### [Repository](https://github.com/AKoudounis/refactored-journey)&nbsp;&nbsp;|&nbsp;&nbsp; [Documentation](https://code.visualstudio.com/docs/languages/cpp)&nbsp;&nbsp;|&nbsp;&nbsp;[Code Sample](https://github.com/AKoudounis/refactored-journey/blob/master/pokerhands.cpp)&nbsp;&nbsp;
 [![Badge](https://aka.ms/vsls-badge)](https://aka.ms/vsls)
 
-This release will provide you with an-depth guide to getting started along with some of my favorite code
+This release will provide you with an-depth guide to getting started in C++ along with some of my favorite code
 
 ## Overview and getting started
 * [C/C++ extension overview](https://code.visualstudio.com/docs/languages/cpp)
