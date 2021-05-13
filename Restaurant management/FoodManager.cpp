@@ -1,10 +1,3 @@
-//
-//  FoodManager.cpp
-//  Assignment4COEN244
-//
-//  Created by Mohammad Altahat on 2020-11-05.
-//
-
 #include "FoodManager.h"
 #include "VegetarianPizza.h"
 #include "AllDressedPizza.h"
